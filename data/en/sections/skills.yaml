@@ -11,39 +11,47 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: R Language
+  logo: /images/sections/skills/R.png
+  summary: "Routinely uses R to analyse and visualize data, clean data, develop and deploy Shiny apps and solve problems in the workplace."
+  url: "https://www.r-project.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Tidyverse
+  logo: /images/sections/skills/tidyverse.png
+  summary: "Uses the Tidyverse as the main R Language dialect to follow tidy-data principles and increase code readability and reproducability."
+  url: "https://tidyverse.tidyverse.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Bioinformatics
+  logo: /images/sections/skills/dna.png
+  summary: "Worked with a variety of bioinformatics tools to design a metagenomic next-generation sequencing analysis workflow including CLC Genomics Workbench, R, Bowtie2, STAR, Trimmomatic, PriceSeq and FastQC."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Molecular Biology
+  logo: /images/sections/skills/microscope.png
+  summary: "Proficient at microbiological technqiques including RNA/DNA isolation, PCR, PCR development, ELISA, culturing, and RNAi."
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Microsoft Office
+  logo: /images/sections/skills/Microsoft_logo.svg.png
+  summary: "Advanced proficiency with Microsoft apps such as Excel, Word, Outlook, PowerPoint, and Power Automate. Used Power Automate to automate most communications in my role with PHAC."
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Entomology
+  logo: /images/sections/skills/mosquito.png
+  summary: "Skilled at insect identification using taxonomic keys and barcoding, handling, rearing and trapping/collection."
+
+
+- name: Biosafety
+  logo: /images/sections/skills/biohazard.png
+  summary: "Works in a Containment Level 2+ (Enhanced) laboratory daily and follows all safety standards."
+
+- name: Virology
+  logo: /images/sections/skills/virus.png
+  summary: "Experienced working with a variety of viruses including California serogroup viruses, SARS-CoV-2, Flu, RSV, and HIV-1."
+
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "Uses Git and GitHub for code storage, sharing, version control and source code management."
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Data Cleaning & Management
+  logo: /images/sections/skills/broom.png
+  summary: "Routinely cleans data and transforms it to a usable form. Advises on data management best-practices to increase departmental organization and efficiency. "

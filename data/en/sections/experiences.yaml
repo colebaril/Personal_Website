@@ -1,4 +1,4 @@
-# section information
+  # section information
 section:
   name: Experiences
   id: experiences
@@ -11,63 +11,101 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    name: National Microbiology Laboratory, Public Health Agency of Canada
+    url: ""
+    location: Winnipeg, Manitoba
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: I belong to the division known as Northern, Remote, and Isolated, where our focus is on aiding underserved communities in Canada through our expertise in molecular diagnostics and ensuring high-quality standards for point-of-care testing facilities.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Quality Analyst
+    start: Oct 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    -  Oversees three international quality assurance programs by preparing samples, documents, corresponding with participants and writing participant performance reports.
+    -  Peforms testing for HIV, HCV, TB, CT/NG, SARS‑CoV‑2, Influenza and RSV using GeneXpert and m‑PIMA Analyser technology.
+    -  Assists with data management, curation, visualization, reporting and analysis using R.                                                                                                                                 
+    -  Significantly increased program efficiency and consistency by automating communications, document preparation and reporting processes using R and Power Automate.
+    -  Conceived, designed, developed and deployed an easy-to-use locally run Shiny application to increase test result data accessibility using R. 
+    -  Authors program documents such as program summaries, surveys and reports as well as emails to program participants as necessary.
+    -  Conducts experiments to verify the functionality of new assays, methods, and new molecular diagnostics machines.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Brandon University
+    location: Brandon, Manitoba
+    overview: I led a small team of research assistants on mosquito-borne virus surveillance and mosquito metagenomic next generation sequencing projects. 
+              My team and I collected and identified ~300,000 mosquitoes, identified the presence of Cache Valley virus in mosquitoes in Manitoba, and identified >60
+              viruses being harboured by mosquitoes in Manitoba including 17 novel viruses.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Graduate Researcher
+    start: April 2020
+    end: June 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    -  Planned, organized, and managed all facets of several research projects related to mosquito surveillance, including leading a team of research assistants
+    -  Coordinated mosquito‑borne bunyavirus surveillance by RT‑PCR and was the first to detect Cache Valley virus in mosquitoes in Manitoba in recent decades.
+    -  Analyzed RNA Sequencing data to characterize the mosquito microbiome of mosquitoes in Manitoba resulting in the identification of >60 viruses including 17 novel viruses and a variety of parasites, fungi and meal sources.
+    -  Procured mosquito trapping and weather data for statistical analysis using Excel, Google Sheets and R.
+    -  Managed inventory control for laboratory supplies and prepare purchase requisitions.
+    -  Utilized strong project management skills in independently planning, organizing, designing, and delivering scientific (biology) projects within Brandon University.
+    -  Employed sound operational decision‑making skills for strategic planning, materials, equipment, analysis techniques, software usage and all aspects of the project.
+    -  Administered project operating budgets, including diligently controlling labour and research procurement costs to meet fiscal and project goals with limited resources.
+    -  Prepared weekly, monthly and annual reports on mosquito surveillance findings for 2020 and 2021 and shared data with the Manitoba’s West Nile Surveillance Program, Manitoba Health (Manitoba Government) and the Public Health Agency of Canada (Canadian Government).
+    -  Established connections with a network of other scientists throughout North America to discuss their research and request information to enhance lab surveillance projects by learning best practices.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Brandon University
+    location: Brandon, Manitoba
+    overview: Conducted a pilot analysis on tick metagenomic next-generation sequencing data to inform future grant applications.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Contract Bioinformatician
+    start: January 2022
+    end: April 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    -  Informed future grant application decisions by heading a pilot tick NGS bioinformatics project.
+    -  Created a bioinformatics workflow to analyze tick NGS data using CLC Genomics Workbench.
+    -  Identified microbes present in tick NGS data using CLC Genomics Workbench.
+    -  Trained a staff member one‑on‑one on bioinformatics principles and molecular biology techniques.
+
+- company:
+    name: Brandon University
+    location: Brandon, Manitoba
+    overview: Instructed a third year biology course.
+  positions:
+  - designation: Sessional Instructor (Diseases 15:366)
+    start: January 2022
+    end: May 2022
+    responsibilities:
+    -  Prepared laboratory materials, media, and organisms.
+    -  Created relevant quizzes and tests. Grade quizzes, tests, and assignments.
+    -  Researched, designed, and delivered pre‑lab presentations.
+    -  Supported, tutored, and guided students during lab sessions.
+
+- company:
+    name: Brandon University
+    location: Brandon, Manitoba
+    overview: Assited with teaching a first year biology course.
+  positions:
+  - designation: Teaching Assistant (Biodiversity, Functions and Interactions 15:163)
+    start: January 2021
+    end: May 2021
+    responsibilities:
+    -  Prepared and delivered pre‑lab briefings in two lab sections prior to student experiments to explain concepts and procedures using the Zoom virtual platform.
+    -  Assisted students using MacMillan Learning Software during lab procedures and responded to questions.
+    -  Graded assignments and tests. Provided written and oral critiques to improve student performance.
+    -  Assisted the professor in test creation
+
+- company:
+    name: Cibus Canada
+    location: Winnipeg, Manitoba
+    overview: Assisted with canola research activities and data analysis on a short term contract.
+  positions:
+  - designation: Research Assistant (Contract)
+    start: May 2022
+    end: July 2022
+    responsibilities:
+    -  Created, edited and reviewed fieldbooks for field observation collection using Excel.
+    -  Authored a report detailing the relationships between weather variables and Sclerotinia infection of canola plants.
+    -  Made educated reccomendations for future research site selection.
+    -  Visited experimental canola plots to observe plant quality, infestations, weed status and presence of disease.
+    -  Compiled photos and reports of field visits into Microsoft OneNote files for each site

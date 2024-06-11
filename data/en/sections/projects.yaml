@@ -21,44 +21,65 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
-
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
-
-- name: A sample academic paper
+- name: Mosquito Metagenomics
+  logo: /images/sections/projects/mosquito_DNA.png
   role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+  timeline: "April 2020 - Present"
+  repo: https://github.com/colebaril/Mosquito_Metagenomics # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Leading a metagenomic next-generation sequencing project on mosquitoes in Manitoba. We have identified >60 viruses being harboured by mosquitoes including 17 novel viruses.
+  tags: ["academic", "mNGS", "Bioinformatics"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Tick Metagenomics
+  logo: /images/sections/projects/tick.png
+  role: Team Lead
+  timeline: "January 2022 - May 2022"
+  #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Piloted a tick mNGS project to inform future grant applications and trained a staff member on bioinformatics and molecular biology techniques.
+  tags: ["academic", "mNGS", "Bioinformatics"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Mosquito Surveillance
+  logo: /images/sections/projects/mosquito.png
+  role: Team Lead
+  timeline: "April 2020 - September 2021"
+  repo: "https://github.com/steffilazerte/mosquitoes_weather"
+  url: ""
+  summary: Led a mosquito surveillance project over two years. My team and I trapped and identified ~300,000 mosquitoes in Manitoba and described the relationships between trap counts and weather through GLMMs. Our work was published in [*Parasites & Vectors* in 2022](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x).
+  tags: ["academic", "mosquito", "virus", "PCR"]
+
+- name: California Serogroup Virus Surveillance
+  logo: /images/sections/projects/virus.png
+  role: Team Lead
+  timeline: "April 2020 - September 2021"
+  repo: 
+  url: ""
+  summary: Led a targeted RT-PCR California Serogroup Virus surveillance project in Manitoba. Over summers in 2020 and 2021, mosquitoes were trapped twice weekly in >8 communities in Manitoba. Specimens were identified and RNA isolations were carried out followed by RT-PCR. Two positive pools were identified, one confirmed to be Cache Valley virus by Sanger sequencing.
+  tags: ["academic", "PCR", "mosquito", "surveillance"]
+
+- name: Quality Oversight
+  logo: /images/sections/projects/quality-control.png
+  role: Quality Analyst
+  timeline: "October 2022 - Present"
+  repo: 
+  url: ""
+  summary: In my role with the Public Health Agency of Canada, I oversee three international external quality control programs for HIV-1 and respiratory viruses.
+  tags: ["quality","professional", "public health"]
+
+- name: Citizen Data Analysis
+  logo: /images/sections/projects/data.png
+  role: 
+  timeline: "Ongoing"
+  url: 
+  summary: Executes hobby data analysis projects on topics ranging from social media statistics to visualizing trends in local weather patterns and forest fire activiy.
+  tags: ["hobby","R", "dataviz", "RStats"]
+
+- name: Mosquito Monitor
+  logo: /images/sections/projects/mosquito.png
+  role: 
+  repo: "https://github.com/colebaril/Mosquito_Monitor"
+  timeline: "Ongoing"
+  url: "https://colewb.shinyapps.io/Mosquito_Monitor/"
+  summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data.
+  tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito"]
+

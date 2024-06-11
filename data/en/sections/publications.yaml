@@ -12,71 +12,49 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Mosquito"
+  filter: "mosquito"
+- name: "Bioinformatics"
+  filter: "bioinformatics"
+- name: "Modelling"
+  filter: "modelling"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Black queen cell virus detected in Canadian mosquitoes
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Journal of Insect Science
+    date: March 2023
+    url: https://academic.oup.com/jinsectscience/article/23/2/10/7099533?login=false
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+  - name: Cole Baril
+    url: colebaril.ca
+  - name: Christophe M R LeMoine
+  - name: Bryan J Cassone
 
-- title: An Sample Paper on Image Processing
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+  paper: 
+    summary: Black queen cell virus (BQCV) is a ubiquitous honeybee virus and a significant pathogen to queen bee (Apis mellifera) larvae. However, many aspects of the virus remain poorly understood, including the transmission dynamics. In this study, we used next-generation sequencing to identify BQCV in Aedes vexans (n = 4,000) collected in 2019 and 2020 from Manitoba, Canada. We assembled de novo the nearly complete (>96%) genome sequence of the virus, which is the first available from North America and the first report of BQCV being harbored by mosquitoes. Phylogenetic tree reconstructions indicated that the genome had 95.5% sequence similarity to a BQCV isolate from Sweden. Sequences of a potential vector (Varroa destructor) and a microsporidian associated with BQCV (Nosema apis) were not identified in the mosquito samples, however, we did detect sequences of plant origin. We, therefore, hypothesize that the virus was indirectly acquired by mosquitoes foraging at the same nectar sources as honeybees.
+  categories: ["mosquito","bioinformatics"]
+  tags: ["mosquito", "honeybees", "virus"]
 
-- title: An Example Paper on Security
+- title: The influence of weather on the population dynamics of common mosquito vector species in the Canadian Prairies
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Parasites & Vectors
+    date: 28 April 2023
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Cole Baril
+    url: colebaril.ca
+  - name: Ben G. Pilling
+  - name: Milah J. Mikkelsen
+  - name: Jessica M. Sparrow
+  - name: Carlyn A. M. Duncan
+  - name: Cody W. Koloski
+  - name: Stefanie E. LaZerte 
+  - name: Bryan J. Cassone
+   
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: Mosquito seasonal activity is largely driven by weather conditions, most notably temperature, precipitation, and relative humidity. The extent by which these weather variables influence activity is intertwined with the animal’s biology and may differ by species. For mosquito vectors, changes in weather can also alter host–pathogen interactions thereby increasing or decreasing the burden of disease.
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x
+  categories: ["mosquito", "modelling"]
+  tags: ["mosquito", "manitoba", "modelling", "weather", "R"]
