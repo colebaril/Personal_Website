@@ -57,6 +57,15 @@ projects:
   summary: Led a targeted RT-PCR California Serogroup Virus surveillance project in Manitoba. Over summers in 2020 and 2021, mosquitoes were trapped twice weekly in >8 communities in Manitoba. Specimens were identified and RNA isolations were carried out followed by RT-PCR. Two positive pools were identified, one confirmed to be Cache Valley virus by Sanger sequencing.
   tags: ["academic", "PCR", "mosquito", "surveillance"]
 
+- name: Mosquito Monitor
+  logo: /images/sections/projects/mosquito.png
+  role: 
+  repo: "https://github.com/colebaril/Mosquito_Monitor"
+  timeline: "Ongoing"
+  url: "https://colewb.shinyapps.io/Mosquito_Monitor/"
+  summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data.
+  tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito"]
+
 - name: Quality Oversight
   logo: /images/sections/projects/quality-control.png
   role: Quality Analyst
@@ -74,12 +83,5 @@ projects:
   summary: Executes hobby data analysis projects on topics ranging from social media statistics to visualizing trends in local weather patterns and forest fire activiy.
   tags: ["hobby","R", "dataviz", "RStats"]
 
-- name: Mosquito Monitor
-  logo: /images/sections/projects/mosquito.png
-  role: 
-  repo: "https://github.com/colebaril/Mosquito_Monitor"
-  timeline: "Ongoing"
-  url: "https://colewb.shinyapps.io/Mosquito_Monitor/"
-  summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data.
-  tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito"]
+
 

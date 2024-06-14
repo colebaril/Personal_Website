@@ -58,3 +58,22 @@ publications:
     url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x
   categories: ["mosquito", "modelling"]
   tags: ["mosquito", "manitoba", "modelling", "weather", "R"]
+
+
+- title: Metatranscriptomic analysis of common mosquito vector species in the Canadian Prairies (Pre-Print)
+  publishedIn:
+    name: bioRxiv
+    date: 16 August 2023
+    url: https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+  - name: Bryan J. Cassone
+   
+  paper:
+    summary: Accepted by mSphere in May 2024. The microbiome plays vital roles in the life history of mosquitoes, including their development, immunity, longevity, and vector competence. Recent advances in sequencing technologies have allowed for detailed exploration into the diverse microorganisms harboured by these medically important insects. Although these meta-studies have catalogued the microbiomes of mosquitoes on several continents, much of the information currently available for North America is limited to the state of California. In this study, we collected >35,000 mosquitoes throughout Manitoba, Canada over a two-year period, and then harnessed RNA sequencing and targeted RT-PCR to characterize the microbiomes of the eight most pervasive and important vector and pest species. The consensus microbiome of each species was overwhelmingly composed of viruses, but also included fungi, bacteria, protozoa, and parasitic invertebrates. The microbial assemblages were heterogeneous between species, even within the same genus. We detected notable pathogens, including the causal agents of Cache Valley Fever, avian malaria, and canine heartworm. The remaining microbiome consisted largely of putatively insect-specific viruses that are not well characterized, including 17 newly discovered viruses from 10 different families. Future research should focus on evaluating the potential application of these viruses in biocontrol, as biomarkers, and/or in disrupting mosquito vectorial capacity. Interestingly, we also detected viruses that naturally infect honeybees and thrips, which were presumably acquired indirectly through nectar foraging behaviours. Overall, we provide the first comprehensive catalogue of the microorganisms harboured by the most common and important mosquito vectors and pests in the Canadian Prairies.
+    url: https://www.biorxiv.org/content/10.1101/2023.08.15.553461v1
+  categories: ["mosquito", "bioinformatics", "academic"]
+  tags: ["mosquito", "manitoba", "mNGS", "bioinformatics", "R", "virus", "fungi", "parasite", "host-virus"]
+
+

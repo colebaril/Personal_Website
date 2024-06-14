@@ -12,10 +12,10 @@ section:
 experiences:
 - company:
     name: National Microbiology Laboratory, Public Health Agency of Canada
-    url: ""
     location: Winnipeg, Manitoba
+    logo: /images/sections/experiences/PHAC.png
     # company overview
-    overview: I belong to the division known as Northern, Remote, and Isolated, where our focus is on aiding underserved communities in Canada through our expertise in molecular diagnostics and ensuring high-quality standards for point-of-care testing facilities.
+    overview: 
   positions:
   - designation: Quality Analyst
     start: Oct 2022
@@ -27,12 +27,13 @@ experiences:
     -  Peforms testing for HIV, HCV, TB, CT/NG, SARS‑CoV‑2, Influenza and RSV using GeneXpert and m‑PIMA Analyser technology.
     -  Assists with data management, curation, visualization, reporting and analysis using R.                                                                                                                                 
     -  Significantly increased program efficiency and consistency by automating communications, document preparation and reporting processes using R and Power Automate.
-    -  Conceived, designed, developed and deployed an easy-to-use locally run Shiny application to increase test result data accessibility using R. 
+    -  Conceived, designed, developed and deployed an easy-to-use locally run Shiny application to increase test result data accessibility using R saving hundreds of hours spent entering data while improving data entry accuracy. 
     -  Authors program documents such as program summaries, surveys and reports as well as emails to program participants as necessary.
     -  Conducts experiments to verify the functionality of new assays, methods, and new molecular diagnostics machines.
 
 - company:
     name: Brandon University
+    logo: /images/sections/experiences/BU.png
     location: Brandon, Manitoba
     overview: I led a small team of research assistants on mosquito-borne virus surveillance and mosquito metagenomic next generation sequencing projects. 
               My team and I collected and identified ~300,000 mosquitoes, identified the presence of Cache Valley virus in mosquitoes in Manitoba, and identified >60
@@ -97,6 +98,7 @@ experiences:
 
 - company:
     name: Cibus Canada
+    logo: /images/sections/experiences/cibus.png
     location: Winnipeg, Manitoba
     overview: Assisted with canola research activities and data analysis on a short term contract.
   positions:

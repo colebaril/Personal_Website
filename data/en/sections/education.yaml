@@ -15,6 +15,7 @@ degrees:
   timeframe: 2020-2022
   institution:
     name: Brandon University
+    logo: /images/sections/education/BU.png
   grade: #(optional)
     scale: GPA
     achieved: 4.3
@@ -29,6 +30,7 @@ degrees:
   timeframe: 2014-2019
   institution:
     name: University of Winnipeg
+    logo: /images/sections/education/UW.png
   grade: #(optional)
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
