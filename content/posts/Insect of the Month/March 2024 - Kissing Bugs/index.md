@@ -5,7 +5,7 @@ hero: r_prolixus.png
 description: March 2024 Insect of the Month - Kissing Bugs
 menu:
   sidebar:
-    name: "Kissing Bugs - 01/24"
+    name: "Kissing Bugs - 03/24"
     identifier: march_2024
     parent: iotm
     weight: 10002
