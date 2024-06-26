@@ -347,6 +347,10 @@ Mosquito trap counts tend to follow a poisson distribution, where there are many
   </div>
 </div>
 
+## West Nile Virus
+
+Manitoba Health carries out West Nile virus surveillance throughout the province by monitoring *Culex tarsalis* mosquitoes, the main vector for West Nile virus in Manitoba. To date, there have been no human cases of West Nile virus acquired in the province and no positive *Culex tarsalis* mosquito pools. Moreover, *Culex tarsalis* trap counts are low, but slowly increasing ([Manitoba Health](https://www.gov.mb.ca/health/wnv/stats.html)). 
+
 ## Data 
 
 If you are interested in this data, visit my interactive app [here](https://colewb.shinyapps.io/Mosquito_Monitor/). If you are interested in receiving daily update notifications when the city updates their data, follow the Twitter account [here](https://x.com/MosquitoMonitor). 

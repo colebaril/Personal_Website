@@ -1,0 +1,116 @@
+# section information
+section:
+  name: Presentations
+  id: publications
+  enable: true
+  weight: 7
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# your publications
+publications:
+- title: QASI-EID & QASI-VL - A Programmatic Approach to Improving Program Efficiciency
+  publishedIn:
+    name: 
+    date: April 2024
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+  paper: 
+    summary: Designed and presented a presentation detailing the work I have done to increase program delivery programmatically through the use of R and automation tools.
+  tags: ["POCT", "R", "Power Automate"]
+
+- title: Development of a User-Friendly App to Clean GeneXpert Data - Enhancing Point of Care Diagnostics in Canada
+  publishedIn:
+    name: JC Wilt 10th Year Anniversary Poster Symposium
+    date: August 2023
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+  - name: Hannah Exner
+  - name: Michael Glen Becker
+  - name: Tracy Taylor
+
+  paper: 
+    summary: Designed and presented a poster to showcase an app we built to clean GeneXpert data. Our poster received an award for "Best Poster Presentation".
+  tags: ["POCT", "R", "Shiny"]
+
+- title: Mosquito-borne bunyavirus surveillance and mosquito-weather relationships in Manitoba
+  publishedIn:
+    name: Invited by Manitoba Health
+    date: August 2022
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+   
+  paper:
+    summary: Designed and delivered a research presentation for the August 23 West Nile Virus Scientific Committee meeting hosted by Manitoba Health.
+    url: 
+  tags: ["mosquito", "manitoba", "modelling", "weather", "R", "virus", "public health"]
+
+- title: Mosquito Surveillance and California Serogroup in Manitoba
+  publishedIn:
+    name: Invited by Manitoba Health
+    date: August 2022
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+   
+  paper:
+    summary: Designed and delivered a research presentation for the August 10 National Vector Borne Disease Info Sharing Table hosted by the Public Health Agency of Canada.
+    url: 
+  tags: ["mosquito", "manitoba", "modelling", "weather", "R", "virus", "public health"]
+
+
+- title: Characterizing the Microbiome of Manitoban Mosquitoes
+  publishedIn:
+    name: Invited by Manitoba Health
+    date: April 2022
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+   
+  paper:
+    summary: Designed and delivered a poster presentation for the 2022 North Central Mosquito Control Association 2022 Annual Meeting. I received an award for an outstanding presentation.
+    url: 
+  tags: ["mosquito", "manitoba", "modelling", "weather", "R", "virus", "public health"]
+
+- title: Neglected mosquito-borne pathogen surveillance in Manitoba, Canada
+  publishedIn:
+    name: Entomological Society of America 2021 Annual Meeting, Denver Colorado
+    date: November 2021
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+   
+  paper:
+    summary: Designed and delivered a poster presentation for the 2021 Entomological Society of America Conference in Denver, Colorado.
+    url: 
+  tags: ["mosquito", "manitoba", "modelling", "weather", "R", "virus", "public health"]
+
+- title: Mosquiton Surveillance for California Serogroup and Cache Valley Viruses in Manitoba
+  publishedIn:
+    name: Brandon University Science Seminar Series
+    date: December 2020
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+   
+  paper:
+    summary: Designed and delivered a research presentation for the 2020 Brandon University Science Seminar Series.
+    url: 
+  tags: ["mosquito", "manitoba", "modelling", "weather", "R", "virus", "public health"]
