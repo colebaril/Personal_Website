@@ -59,7 +59,7 @@ projects:
 
 - name: Mosquito Monitor
   logo: /images/sections/projects/mosquito.png
-  role: 
+  role: Developer & Maintainer
   repo: "https://github.com/colebaril/Mosquito_Monitor"
   timeline: "Ongoing"
   url: "https://colewb.shinyapps.io/Mosquito_Monitor/"
@@ -72,7 +72,7 @@ projects:
   timeline: "October 2022 - Present"
   repo: 
   url: ""
-  summary: In my role with the Public Health Agency of Canada, I oversee three international external quality control programs for HIV-1 and respiratory viruses.
+  summary: In my role with the Public Health Agency of Canada, I oversee and run two international external quality control programs for HIV-1.
   tags: ["quality","professional", "public health"]
 
 - name: Citizen Data Analysis

@@ -9,7 +9,7 @@ menu:
     identifier: may_2024
     parent: iotm
     weight: 10004
-tags: ["Insect","Hoverfly","Entomology", "Fly"]
+tags: ["Insect","Ichneumon", "Wasp", "Entomology"]
 draft: false
 ---
 

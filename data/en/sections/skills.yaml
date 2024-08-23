@@ -13,14 +13,9 @@ section:
 skills:
 - name: R Language
   logo: /images/sections/skills/R.png
-  summary: "Routinely uses R to analyse and visualize data, clean data, develop and deploy Shiny apps and solve problems in the workplace."
+  summary: "Routinely uses R to analyse and visualize data, clean data, develop and deploy Shiny apps and solve problems in the workplace. Expert knowledge of various packages including Tidyverse packages."
   url: "https://www.r-project.org/"
-
-- name: Tidyverse
-  logo: /images/sections/skills/tidyverse.png
-  summary: "Uses the Tidyverse as the main R Language dialect to follow tidy-data principles and increase code readability and reproducability."
-  url: "https://tidyverse.tidyverse.org/"
-
+  
 - name: Bioinformatics
   logo: /images/sections/skills/dna.png
   summary: "Worked with a variety of bioinformatics tools to design a metagenomic next-generation sequencing analysis workflow including CLC Genomics Workbench, R, Bowtie2, STAR, Trimmomatic, PriceSeq and FastQC."
