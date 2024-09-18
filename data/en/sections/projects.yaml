@@ -27,7 +27,7 @@ projects:
   timeline: "April 2020 - June 2024"
   repo: https://github.com/colebaril/Mosquito_Metagenomics # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Leading a metagenomic next-generation sequencing project on mosquitoes in Manitoba. We have identified >60 viruses being harboured by mosquitoes including 17 novel viruses. My work was published in [*mSphere* in 2024](https://journals.asm.org/doi/10.1128/msphere.00203-24) and resulted in a short communication in the [*Journal of Insect Science* in 2023](https://academic.oup.com/jinsectscience/article/23/2/10/7099533).
+  summary: Led a metagenomic next-generation sequencing project on mosquitoes in Manitoba. We have identified **66 viruses** being harboured by mosquitoes including **17 novel viruses**. My work was published in [*mSphere* in 2024](https://journals.asm.org/doi/10.1128/msphere.00203-24) and resulted in a short communication in the [*Journal of Insect Science* in 2023](https://academic.oup.com/jinsectscience/article/23/2/10/7099533).
   tags: ["academic", "mNGS", "Bioinformatics"]
 
 - name: Tick Metagenomics
@@ -36,7 +36,7 @@ projects:
   timeline: "January 2022 - May 2022"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Piloted a tick mNGS project to inform future grant applications and trained a staff member on bioinformatics and molecular biology techniques.
+  summary: Piloted a tick mNGS project to inform future grant applications and trained a staff member on bioinformatics and molecular biology techniques. I identified a number of bacteria and viruses being harboured by ticks in Manitoba.
   tags: ["academic", "mNGS", "Bioinformatics"]
 
 - name: Mosquito Surveillance
@@ -45,7 +45,7 @@ projects:
   timeline: "April 2020 - September 2021"
   repo: "https://github.com/steffilazerte/mosquitoes_weather"
   url: ""
-  summary: Led a mosquito surveillance project over two years. My team and I trapped and identified ~300,000 mosquitoes in Manitoba and described the relationships between trap counts and weather through GLMMs. Our work was published in [*Parasites & Vectors* in 2022](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x).
+  summary: Led a mosquito surveillance project over two years. My team and I trapped and identified **~300,000 mosquitoes** in Manitoba and described the relationships between trap counts and weather through GLMMs. Our work was published in [*Parasites & Vectors* in 2022](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05760-x).
   tags: ["academic", "mosquito", "virus", "PCR"]
 
 - name: California Serogroup Virus Surveillance

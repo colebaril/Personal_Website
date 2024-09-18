@@ -17,42 +17,38 @@ experiences:
     # company overview
     overview: 
   positions:
-  - designation: Quality Analyst
+  - designation: Quality Analyst & Program Coordinator
     start: Oct 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    -  Oversees three international quality assurance programs by preparing samples, documents, corresponding with participants and writing participant performance reports.
-    -  Peforms testing for HIV, HCV, TB, CT/NG, SARS‑CoV‑2, Influenza and RSV using GeneXpert and m‑PIMA Analyser technology.
-    -  Assists with data management, curation, visualization, reporting and analysis using R.                                                                                                                                 
-    -  Significantly increased program efficiency and consistency by automating communications, document preparation and reporting processes using R and Power Automate.
-    -  Conceived, designed, developed and deployed an easy-to-use locally run Shiny application to increase test result data accessibility using R saving hundreds of hours spent entering data while improving data entry accuracy. 
-    -  Authors program documents such as program summaries, surveys and reports as well as emails to program participants as necessary.
-    -  Conducts experiments to verify the functionality of new assays, methods, and new molecular diagnostics machines.
+    -  Oversees two international quality control programs for HIV-1 diagnostics with over 1,000 participants in over 30 countries. Responsible for stakeholder communications, quality assurance sample preparation, program research and development, reporting results to stakeholders, and providing program summaries and progress reports to management and stakeholders such as the World Health Organisation.
+    -  Developed domestic quality control programs for HIV-1, chlamydia, and gonorrhea to serve marginalized communities in Canada. Responsible for writing training materials and producing stable quality control materials. 
+    -  Developed an automated report and document generation process using R, RMarkdown, and Excel, increasing program efficiency and accuracy, and reducing the time spent conducting manual tasks by **160 hours** annually.                                                                                                                               
+    -  Conceived, designed, and deployed a desktop application to increase accessibility for point-of-care test data, enhancing decision-making processes, and reducing time spent entering data internally. The app has been adopted by multiple units within the division.
+    -  Reduced program costs by **$12,000** annually through innovative quality control material development while maintaining high standards of program quality.
+    -  Conducts data analysis using R and Excel for program performance assessment and participant reporting.
+    -  Developed and authored over 100 Standard Operating Procedures (SOPs) to ensure compliance with stringent quality standards and to enhance program resilience by building redundancy into critical processes.
 
 - company:
     name: Brandon University
     logo: /images/sections/experiences/BU.png
     location: Brandon, Manitoba
     overview: I led a small team of research assistants on mosquito-borne virus surveillance and mosquito metagenomic next generation sequencing projects. 
-              My team and I collected and identified ~300,000 mosquitoes, identified the presence of Cache Valley virus in mosquitoes in Manitoba, and identified >60
-              viruses being harboured by mosquitoes in Manitoba including 17 novel viruses.
+              My team and I collected and identified **~300,000 mosquitoes**, identified the presence of Cache Valley virus in mosquitoes in Manitoba, and identified **66
+              viruses** being harboured by mosquitoes in Manitoba including **17 novel viruses**.
   positions:
   - designation: Graduate Researcher
     start: April 2020
     end: June 2022
     responsibilities:
-    -  Planned, organized, and managed all facets of several research projects related to mosquito surveillance, including leading a team of research assistants
-    -  Coordinated mosquito‑borne bunyavirus surveillance by RT‑PCR and was the first to detect Cache Valley virus in mosquitoes in Manitoba in recent decades.
-    -  Analyzed RNA Sequencing data to characterize the mosquito microbiome of mosquitoes in Manitoba resulting in the identification of >60 viruses including 17 novel viruses and a variety of parasites, fungi and meal sources.
-    -  Procured mosquito trapping and weather data for statistical analysis using Excel, Google Sheets and R.
-    -  Managed inventory control for laboratory supplies and prepare purchase requisitions.
-    -  Utilized strong project management skills in independently planning, organizing, designing, and delivering scientific (biology) projects within Brandon University.
-    -  Employed sound operational decision‑making skills for strategic planning, materials, equipment, analysis techniques, software usage and all aspects of the project.
-    -  Administered project operating budgets, including diligently controlling labour and research procurement costs to meet fiscal and project goals with limited resources.
-    -  Prepared weekly, monthly and annual reports on mosquito surveillance findings for 2020 and 2021 and shared data with the Manitoba’s West Nile Surveillance Program, Manitoba Health (Manitoba Government) and the Public Health Agency of Canada (Canadian Government).
-    -  Established connections with a network of other scientists throughout North America to discuss their research and request information to enhance lab surveillance projects by learning best practices.
+    - Planned, organized, and managed all facets of several research projects related to mosquito surveillance, including leading a team of research assistants.
+    - Developed and authored standard operating procedures for mosquito trapping, identification, RNA isolation and RT-PCR. 
+    - Optimized insect RNA isolation and RT-PCR protocols, increasing RNA yield and quality and RT-PCR sensitivity. 
+    - Carried out, trained, and mentored staff on mosquito trapping, identification, RNA isolation and RT-PCR. We trapped, identified and processed ~300,000 mosquitoes over two years, resulting in the detection of Cache Valley Virus in two mosquito pools.
+    - Led data analysis for mosquito-borne pathogen surveillance, including modelling trap count data and weather (using R), and conducting a mosquito metatranscriptomic analysis (using various bioinformatics tools including R, CLC Genomics Workbench, Bowtie2, Trimmomatic) identifying 66 viruses, including 17 novel viruses, using next-generation sequencing.
+    - Authored weekly, monthly and annual reports detailing trap counts, virus surveillance results, and recommendations for how the public can protect themselves from mosquito bites to local municipalities, Manitoba Health and the Public Health Agency of Canada. 
 
 - company:
     name: Brandon University

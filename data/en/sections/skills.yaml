@@ -13,7 +13,7 @@ section:
 skills:
 - name: R 
   logo: /images/sections/skills/R.png
-  summary: "Routinely uses R to analyse and visualize data, clean data, develop and deploy Shiny apps and solve problems in the workplace. Expert knowledge of various packages including Tidyverse packages."
+  summary: "Expert knowledge of R for data analysis and visualization, data cleaning, Shiny app development, programmable documents and presentations (RMarkdown & Quarto), webscraping, and bioinformatics. Routinely uses R to solve problems in the workplace."
   url: "https://www.r-project.org/"
   
 - name: Bioinformatics
@@ -31,7 +31,7 @@ skills:
 
 - name: Entomology
   logo: /images/sections/skills/mosquito.png
-  summary: "Skilled at insect identification using taxonomic keys and barcoding, handling, rearing and trapping/collection."
+  summary: "Skilled at insect identification using taxonomic keys and barcoding, handling, rearing and trapping/collection. Expert knowledge of mosquito biology and mosquito-borne pathogens."
 
 
 - name: Biosafety
@@ -43,9 +43,9 @@ skills:
   summary: "Experienced working with a variety of viruses including California serogroup viruses, SARS-CoV-2, Flu, RSV, and HIV-1."
 
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Uses Git and GitHub for code storage, sharing, version control and source code management."
+- name: Automation 
+  logo: /images/sections/skills/automation.png
+  summary: "Adept at automating processes such as report generation, data summaries, emails & social media posts, data scraping, and data analysis pipelines using a combination of R, Python, Power Automate and Excel."
 
 - name: Data Cleaning & Management
   logo: /images/sections/skills/broom.png
