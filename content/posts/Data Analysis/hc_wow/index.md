@@ -27,7 +27,7 @@ The data from the [Deathlog](https://github.com/aaronma37/Deathlog) addon comes 
 Raw data was obtained from the Deathlog addon's current [database](https://github.com/aaronma37/Deathlog/tree/master/db) as of October 14, 2023. It can be retrieved in .json format.
 
 {{< alert type="info" >}}
-This raw data frame can be made available upon request. Send an email to me [here](mailto:cole@colebaril.ca) to request it. The original data is available [here](https://github.com/aaronma37/Deathlog/tree/master/db).
+This raw data frame can be made available upon request. Send an email to me [here](mailto:colebarilca@gmail.com) to request it. The original data is available [here](https://github.com/aaronma37/Deathlog/tree/master/db).
 {{< /alert >}}
 
 The initial data set consists of **434,226** observations with 27 columns after combining data obtained from the API. In general, there is raw data from Deathlog, map data, player class data, and NPC (source of death) data.

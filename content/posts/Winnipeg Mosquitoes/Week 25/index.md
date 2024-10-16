@@ -3,6 +3,7 @@ title: "Week 25"
 date: 2024-06-24T00:00:00+06:00
 hero: hero.jpg
 description: Winnipeg mosquito trapping update for Week 25
+draft: true
 menu:
   sidebar:
     name: "Week 25"
