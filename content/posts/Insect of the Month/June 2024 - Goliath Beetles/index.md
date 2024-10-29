@@ -10,7 +10,7 @@ menu:
     parent: iotm
     weight: 10005
 tags: ["Insect", "Beetle", "Entomology"]
-draft: false
+draft: true
 ---
 
 <!--More-->

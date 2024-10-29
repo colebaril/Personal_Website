@@ -10,7 +10,7 @@ menu:
     parent: iotm
     weight: 10001
 tags: ["Insect","Boxelder Bug","Entomology"]
-draft: false
+draft: true
 ---
 
 <!--More-->

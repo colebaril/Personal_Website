@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Data Analysis
     identifier: data_analysis
-    weight: 20
+    weight: 100
 ---

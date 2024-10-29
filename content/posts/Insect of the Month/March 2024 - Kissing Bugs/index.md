@@ -10,7 +10,7 @@ menu:
     parent: iotm
     weight: 10002
 tags: ["Insect","Kissing Bug","Entomology", "Chagas Disease"]
-draft: false
+draft: true
 ---
 
 <!--More-->

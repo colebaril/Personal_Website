@@ -2,7 +2,7 @@
 title: "May 2024 - Ichneumon Wasps"
 date: 2024-05-15T06:00:20+06:00
 hero: hero.jpg
-description: March 2024 Insect of the Month - Kissing Bugs
+description: May 2024 Insect of the Month - Ichneumon Wasps
 menu:
   sidebar:
     name: "Ichneumon Wasps - 05/24"
@@ -10,7 +10,7 @@ menu:
     parent: iotm
     weight: 10004
 tags: ["Insect","Ichneumon", "Wasp", "Entomology"]
-draft: false
+draft: true
 ---
 
 <!--More-->
