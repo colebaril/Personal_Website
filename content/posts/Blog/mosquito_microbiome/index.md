@@ -1,14 +1,14 @@
 ---
 title: "Flying Under the Radar: Unveiling the Hidden Microbial World in Mosquitoes"
 date: 2024-11-15T06:00:20+06:00
-hero: mosquito.jpg
+hero: hero.jpg
 description: Blog post about my recent mSphere publication
 menu:
   sidebar:
     name: "Mosquito Microbial World"
-    identifier: flying_under_the_radar
+    identifier: mosquito_microbiome
     parent: blog
-    weight: 1
+    weight: 100
 tags: ["Mosquitoes","mSphere","Metagenomics", "Metagenome", "Microbe"]
 ---
 
