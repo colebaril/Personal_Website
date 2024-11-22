@@ -38,7 +38,7 @@ command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --mini
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/*"
-  to = "/404.html"
-  status = 404
+    from = "/*"
+    to = "/404.html"
+    status = 404
 
