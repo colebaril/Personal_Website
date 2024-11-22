@@ -32,18 +32,17 @@ To export your Spotify data, you will need to do so from the Spotify app. Once y
 
 ## Daily Songs
 
-This plot visualizes the number of songs I listened to daily over a seven-year period, from 2015 to 2022, using a 30-day rolling average. The rolling average smooths out day-to-day fluctuations in my listening habits, providing a clearer view of broader trends. Each point on the graph represents the average number of songs played per day over the preceding 30 days, helping to highlight periods of more consistent or heavy listening activity.
+This plot visualizes the number of songs I listened to daily over a seven-year period, from 2015 to 2024, using a 30-day rolling average. The rolling average smooths out day-to-day fluctuations in my listening habits, providing a clearer view of broader trends. Each point on the graph represents the average number of songs played per day over the preceding 30 days, helping to highlight periods of more consistent or heavy listening activity.
 
-Peaks in the plot indicate times when I was regularly playing 75-100 songs a day on average, suggesting phases of increased music engagement, possibly driven by discovering new music, particular life events, or seasonal patterns.
-Valleys in the plot reflect periods of reduced listening, where the average dropped closer to 25-30 songs per day.
+Peaks in the plot indicate times when I was regularly playing 75-100 songs a day on average, suggesting phases of increased music engagement, possibly driven by discovering new music, particular life events, or seasonal patterns. Valleys in the plot reflect periods of reduced listening, where the average dropped closer to 25-30 songs per day.
 
-The use of a gradient color scheme further emphasizes the number of songs, with darker greens representing higher average song counts. This plot reveals interesting patterns in my listening habits over time, showing that my highest levels of music engagement occurred between 2015 and 2019, while there were more fluctuations in subsequent years.
+This plot reveals interesting patterns in my listening habits over time, showing that my highest levels of music engagement occurred between 2015 and 2019, while there were more fluctuations in subsequent years, and a drop-off from 2022-2024. 
 
 {{< img src="listening_day.png" align="center" >}}
 
 ## Monthly Songs
 
-This plot visualizes the average number of songs played per month from 2015 to 2022, faceted by year. The data reveals interesting listening patterns over the years, highlighting seasonal trends, fluctuations in music engagement, and potential yearly shifts.
+This plot visualizes the total number of songs played per month from 2015 to 2024, faceted by year. The data reveals interesting listening patterns over the years, highlighting seasonal trends, fluctuations in music engagement, and potential yearly shifts.
 
 **2015-2016:** These years show steady growth in monthly listening habits, with peaks around the middle of each year. Notably, 2016 had more consistent engagement, with no extreme lows, suggesting a balanced pattern of music listening throughout the year.
 
@@ -52,6 +51,8 @@ This plot visualizes the average number of songs played per month from 2015 to 2
 **2020:** In 2020, there was a significant shift in listening habits, possibly tied to the global pandemic, with peaks in June and December. The data suggests increased engagement during lockdown months, potentially as a form of coping or escape during periods of restricted movement.
 
 **2021-2022:** These years reflect more irregular patterns, with fewer pronounced peaks compared to earlier years. December 2021 shows an increase, possibly reflecting end-of-year music engagement, but 2022 reveals a decline overall, with no standout months for high engagement.
+
+**2022-2024:** During these years, the number of songs I listened to seems to even out, and remains consistent. This is likely due to me solidifying a routine around the job I started in 2022. 
 
 Key Observations:
 
