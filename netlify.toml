@@ -41,6 +41,6 @@ HUGO_ENABLEGITINFO = "true"
   from = "/*"
   to = "/errors/404.html"
   status = 404
-  force = TRUE
+  force = "true"
 
 
