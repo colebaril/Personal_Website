@@ -62,25 +62,41 @@ projects:
   role: Developer & Maintainer
   repo: "https://github.com/colebaril/Mosquito_Monitor"
   timeline: "May 2024 - Present"
-  url: "https://colewb.shinyapps.io/Mosquito_Monitor/"
-  summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data.
+  url: "https://colebaril.ca/posts/data-analysis/mosquito-monitor/"
+  summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data. Read about it [here](https://colebaril.ca/posts/data-analysis/mosquito-monitor/).
   tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito"]
 
 - name: Quality Oversight
   logo: /images/sections/projects/quality-control.png
-  role: Quality Analyst
+  role: Quality Analyst & Program Coordinator
   timeline: "October 2022 - Present"
   repo: 
   url: ""
   summary: In my role with the Public Health Agency of Canada, I oversee and run two international external quality control programs for HIV-1.
   tags: ["quality","professional", "public health"]
 
+- name: GIA App
+  logo: /images/sections/projects/application.png
+  role: Developer & Maintainer
+  timeline: "March 2023 - Present"
+  url: ""
+  summary: In my role with the Public Health Agency of Canada I conceived, developed and deployed a desktop application ("*GIA*") built using R, Shiny, and Bash that provides easy access to point-of-care test data across Canada. The app also increases efficiency and accuracy within the Federal Government.
+  tags: ["shiny","R", "dataviz", "RStats", "point of care", "bash"]
+
+- name: qasiCleaner Package
+  logo: /images/sections/projects/package.png
+  role: Developer & Maintainer
+  timeline: "January 2023 - Present"
+  url: ""
+  summary: In my role with the Public Health Agency of Canada I conceived, developed and maintains a R package ("*qasiCleaner*") for internal use containing a variety of data cleaning and manipulation, statistical, and visualization tools to increase departmental effiency and accuracy.
+  tags: ["package","R", "dataviz", "RStats", "usethis"]
+
 - name: Citizen Data Analysis
   logo: /images/sections/projects/data.png
   role: 
   timeline: "January 2022 - Present"
-  url: "https://colebaril.ca/posts/data-analysis/"
-  summary: Executes hobby data analysis projects using R on topics ranging from social media statistics, video game data, to visualizing trends in local weather patterns and forest fire activiy.
+  url: "https://github.com/colebaril/dataviz"
+  summary: Conducts hobby data analysis projects using R, exploring diverse topics such as social media analytics, video game data insights, and visualizing trends in local weather patterns and forest fire activity.
   tags: ["hobby","R", "dataviz", "RStats"]
 
 
