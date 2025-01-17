@@ -1,10 +1,8 @@
 # Copyright Notice
-copyright: © 2024 Copyright.
+copyright: © 2025 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
-You can modify or distribute the theme without requiring any permission from the theme author.
-However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
+disclaimer: "This theme is licensed under the MIT license, granting you the freedom to use it for non-commercial, commercial, or private purposes. You are welcome to modify or distribute the theme without seeking permission from the author. However, please note that the author provides no warranty and assumes no liability for any issues arising from the use of the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Cole Baril.
