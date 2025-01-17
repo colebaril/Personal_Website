@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Quality Analyst & Program Coordinator
+designation: Program Coordinator
 # your company information
 company:
-  name: National Microbiology Laboratory
+  name: Public Health Agency of Canada
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
@@ -33,7 +33,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/cole-baril-5875291a2/"
+  url: "https://www.linkedin.com/in/cole-baril/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -47,7 +47,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/Cole Baril CV Sept 2024.pdf"
+  url: "files/Cole_Baril_CV.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
