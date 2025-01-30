@@ -10,6 +10,7 @@ menu:
     parent: data_analysis
     weight: 10
 tags: ["Twitter","R","dataviz"]
+draft: true
 ---
 
 An analytical pipeline I developed for analyzing personal Twitter data. 

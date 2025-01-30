@@ -10,6 +10,7 @@ menu:
     parent: data_analysis
     weight: 10
 tags: ["Diet","R","LoseIt", "Fitness"]
+draft: true
 ---
 
 Analyzing my diet habits over the years using the LoseIt app and R.  

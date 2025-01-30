@@ -10,7 +10,7 @@ menu:
     parent: data_analysis
     weight: 11
 tags: ["Cancer","R","dataviz", "US"]
-draft: false
+draft: true
 ---
 
 Visualization I made to post on r/dataisbeautiful

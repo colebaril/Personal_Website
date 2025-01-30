@@ -7,7 +7,7 @@ menu:
   sidebar:
     name: "Mosquito Monitor"
     identifier: mosquito_monitor
-    parent: data_analysis
+    parent: blog
     weight: 1
 tags: ["Mosquito","Winnipeg","Shiny", "GitHub", "R", "Python"]
 ---
@@ -337,24 +337,6 @@ message = f"City of Winnipeg mosquito trap counts have been updated as of {curre
 client_v2.create_tweet(media_ids=[media_id], text=message)
 print("Tweeted!")
 ```
-
-## Technology Stack
-
-### R 
-
-R is a powerful programming language and software environment used for statistical computing and graphics. In this project, R plays a crucial role in data scraping, cleaning, and visualization. The rvest package is specifically used to scrape the mosquito trap count data from the City of Winnipeg's website. Additionally, R's `tidyverse` packages are employed for data manipulation and transformation, ensuring the data is clean and ready for analysis.
-
-### Python 
-
-Python is another versatile programming language used in this project, particularly for its robust libraries and tools for automation and integration. The `Tweepy` library is used to interact with the Twitter API, allowing for automated tweeting of mosquito activity updates. Python’s straightforward syntax and extensive libraries make it ideal for handling the automation of notifications and integrating various components of the project.
-
-### Shiny
-
-Shiny is an R package that makes it easy to build interactive web applications directly from R. In this project, Shiny is used to create an interactive dashboard that displays mosquito trap count data. The Shiny app allows users to explore the data through maps, jitter plots, and datatables, making the data more accessible and engaging for the public. It ensures that users can visualize and interact with the data in real-time.
-
-### GitHub Actions
-
-GitHub Actions is a powerful automation tool that enables continuous integration and continuous deployment (CI/CD). In this project, GitHub Actions is used to automate the process of data scraping and updating the data repository. By setting up a workflow that runs every hour, the project ensures that the mosquito data is always up-to-date. GitHub Actions also automates the generation of updated maps and the posting of updates to Twitter, streamlining the entire process.
 
 ## Closing
 

@@ -10,6 +10,7 @@ menu:
     parent: data_analysis
     weight: 10
 tags: ["World of Warcraft","R","Hardcore", "Video Games", "Blizzard"]
+draft: true
 ---
 
 ## Hardcore World of Warcraft

@@ -10,6 +10,7 @@ menu:
     parent: R
     weight: 10
 tags: ["rRecipes","R","Package"]
+draft: true
 ---
 
 R package for scraping recipes off the web.

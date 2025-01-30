@@ -10,6 +10,7 @@ menu:
     parent: data_analysis
     weight: 10
 tags: ["Mobile", "Data", "Phone","R"]
+draft: true
 ---
 
 Visualizing global mobile data trends.

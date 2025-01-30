@@ -10,7 +10,7 @@ menu:
     parent: recipes
     weight: 10
 tags: ["Recipes","Meat", "Chicken", "Beef"]
-draft: false
+draft: true
 ---
 
 <!--more-->

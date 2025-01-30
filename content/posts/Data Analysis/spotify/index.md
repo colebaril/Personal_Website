@@ -10,6 +10,7 @@ menu:
     parent: data_analysis
     weight: 10
 tags: ["Spotify","R","ggplot2"]
+draft: true
 ---
 
 ## About 

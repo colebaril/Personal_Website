@@ -62,9 +62,9 @@ projects:
   role: Developer & Maintainer
   repo: "https://github.com/colebaril/Mosquito_Monitor"
   timeline: "May 2024 - Present"
-  url: "https://colebaril.ca/posts/data-analysis/mosquito-monitor/"
+  url: "https://colebaril.ca/posts/blog/mosquito-monitor/"
   summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data. Read about it [here](https://colebaril.ca/posts/data-analysis/mosquito-monitor/).
-  tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito"]
+  tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito", "python"]
 
 - name: Quality Oversight
   logo: /images/sections/projects/quality-control.png
@@ -98,6 +98,15 @@ projects:
   url: "https://github.com/colebaril/dataviz"
   summary: Conducts hobby data analysis projects using R, exploring diverse topics such as social media analytics, video game data insights, and visualizing trends in local weather patterns and forest fire activity.
   tags: ["hobby","R", "dataviz", "RStats"]
+
+- name: JobScope
+  logo: /images/sections/projects/job-search.png
+  role: Developer & Maintainer
+  repo: "https://github.com/colebaril/JobScope"
+  timeline: "January 2025 - Present"
+  url: "https://colebaril.ca/posts/blog/jobscope/"
+  summary: Maintains a job posting aggregator. Read about it [here](https://colebaril.ca/posts/blog/jobscope/).
+  tags: ["hoppy","R", "app", "RStats", "shiny", "jobsearch", "python"]
 
 
 

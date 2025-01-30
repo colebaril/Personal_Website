@@ -18,7 +18,7 @@ experiences:
     overview: 
   positions:
   - designation: Program Coordinator
-    start: October 2022
+    start: 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -37,8 +37,8 @@ experiences:
     overview: 
   positions:
   - designation: Graduate Researcher
-    start: April 2020
-    end: June 2022
+    start: 2020
+    end: 2022
     responsibilities:
     - Managed all facets of several mosquito surveillance research projects, leading a team of 6 research assistants and processing **~300,000** mosquitoes over two years, resulting in the detection of Cache Valley Virus in two mosquito pools.
     - Developed and optimized SOPs for mosquito trapping, identification, RNA isolation and RT-PCR, enhancing RNA yield, quality, and sensitivity. 
@@ -63,6 +63,11 @@ experiences:
     responsibilities:
     -  Delivered pre-lab presentations, provided feedback on assignments, and facilitated student engagement in virtual lab sessions for 75 students at Brandon University.
 
+  - designation: Graduate Student
+    start: 2020
+    end: 2022
+
+
 - company:
     name: Cibus Canada
     logo: /images/sections/experiences/cibus.png
@@ -74,3 +79,15 @@ experiences:
     end: July 2022
     responsibilities:
     -  Analyzed canola field data and provided statistical insights using R to inform future research site selection and experimental design.
+
+- company:
+    name: DL Seeds
+    logo: 
+    location: Winnipeg, Manitoba
+    overview: 
+  positions:
+  - designation: Research Greenhouse Assistant
+    start: 2019
+    end: 2020
+    responsibilities:
+

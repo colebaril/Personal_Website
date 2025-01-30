@@ -10,7 +10,7 @@ menu:
     parent: recipes
     weight: 10
 tags: ["Recipe","Baking","Cookies", "Biscuits"]
-draft: false
+draft: true
 ---
 
 <!--more-->
