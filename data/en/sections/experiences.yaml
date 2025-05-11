@@ -17,10 +17,18 @@ experiences:
     # company overview
     overview: 
   positions:
-  - designation: Program Coordinator
-    start: 2022
+  - designation: Laboratory Technician, Field Studies Section
+    start: 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Facilitates national vector-borne pathogen surveillance by testing ticks, mosquitoes, and other samples for various vector-borne pathogens including Borrelia, Anaplasma, Babesia, Powassan virus, West Nile Virus, Eastern Equine Encephalitis, and California Serogroup viruses via real-time PCR and multilocus sequence typing.
+    - Supports vector-borne pathogen research activities by assisting with insect identification, dissection and testing.
+  - designation: Program Coordinator, Innovative Diagnostics Program
+    start: 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: 2025
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Coordinates two international external quality assurance (EQA) programs for HIV-1 diagnostics, serving **1,000+ participants in 32 countries**, including quality control preparation, stakeholder engagement, corrective actions, and reporting to stakeholders, senior management and global partners (e.g. World Health Organization).
@@ -36,7 +44,7 @@ experiences:
     location: Brandon, Manitoba
     overview: 
   positions:
-  - designation: Graduate Researcher
+  - designation: Graduate Researcher, Vector and Pest Laboratory
     start: 2020
     end: 2022
     responsibilities:

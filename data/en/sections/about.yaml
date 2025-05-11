@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Program Coordinator
+designation: Laboratory Technician
 # your company information
 company:
   name: Public Health Agency of Canada
@@ -17,7 +17,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate and data-driven biologist & R programmer with over four years of experience working in microbiology laboratories on projects related to molecular diagnostics, 
+summary: 'I am a passionate and data-driven biologist & R programmer with over five years of experience working in microbiology laboratories on projects related to molecular diagnostics, 
           public health, laboratory quality, data analysis, entomology, virology, medical entomology and quality assurance.'
 
 # your social links
