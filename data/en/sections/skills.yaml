@@ -34,9 +34,9 @@ skills:
   summary: "Skilled at arthropod identification using taxonomic keys and barcoding, handling, rearing and trapping/collection. Expert knowledge of mosquito biology and mosquito-borne pathogens."
 
 
-- name: Biosafety
-  logo: /images/sections/skills/biohazard.png
-  summary: "Works in a Containment Level 2+ (Enhanced) laboratory daily and follows all safety standards."
+- name: Project Management
+  logo: /images/sections/skills/project.png
+  summary: "Experienced in managing scientific and data-driven projects from conception to completion. Skilled in coordinating cross-functional teams, setting timelines, and ensuring deliverables are met."
 
 - name: Virology
   logo: /images/sections/skills/virus.png
