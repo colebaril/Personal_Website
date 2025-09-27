@@ -22,7 +22,7 @@ skills:
 
 - name: Molecular Biology
   logo: /images/sections/skills/microscope.png
-  summary: "Proficient at microbiological technqiques including RNA/DNA isolation, PCR, PCR development, ELISA, culturing, and RNAi."
+  summary: "Proficient at microbiological technqiques including RNA/DNA isolation, PCR (real-time and conventional), PCR development, ELISA, and multi-locus sequence typing."
 
 - name: Microsoft Office
   logo: /images/sections/skills/Microsoft_logo.svg.png
@@ -31,7 +31,7 @@ skills:
 
 - name: Entomology
   logo: /images/sections/skills/mosquito.png
-  summary: "Skilled at insect identification using taxonomic keys and barcoding, handling, rearing and trapping/collection. Expert knowledge of mosquito biology and mosquito-borne pathogens."
+  summary: "Skilled at arthropod identification using taxonomic keys and barcoding, handling, rearing and trapping/collection. Expert knowledge of mosquito biology and mosquito-borne pathogens."
 
 
 - name: Biosafety

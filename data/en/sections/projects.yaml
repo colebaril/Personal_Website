@@ -61,15 +61,15 @@ projects:
   logo: /images/sections/projects/mosquito.png
   role: Developer & Maintainer
   repo: "https://github.com/colebaril/Mosquito_Monitor"
-  timeline: "May 2024 - Present"
+  timeline: "May 2024 - April 2025"
   url: "https://colebaril.ca/posts/blog/mosquito-monitor/"
   summary: Maintains a workflow and Shiny app that displays City of Winnipeg mosquito trap count in a more digestable format. The workflow also features a [Twitter Bot](https://x.com/MosquitoMonitor) that tweets when the city updates their data. Read about it [here](https://colebaril.ca/posts/data-analysis/mosquito-monitor/).
   tags: ["hobby","R", "dataviz", "RStats", "shiny", "mosquito", "python"]
 
 - name: Quality Oversight
   logo: /images/sections/projects/quality-control.png
-  role: Quality Analyst & Program Coordinator
-  timeline: "October 2022 - Present"
+  role: Program Coordinator
+  timeline: "October 2022 - April 2025"
   repo: 
   url: ""
   summary: In my role with the Public Health Agency of Canada, I oversee and run two international external quality control programs for HIV-1.
@@ -78,7 +78,7 @@ projects:
 - name: GIA App
   logo: /images/sections/projects/application.png
   role: Developer & Maintainer
-  timeline: "March 2023 - Present"
+  timeline: "March 2023 - April 2025"
   url: ""
   summary: In my role with the Public Health Agency of Canada I conceived, developed and deployed a desktop application ("*GIA*") built using R, Shiny, and Bash that provides easy access to point-of-care test data across Canada. The app also increases efficiency and accuracy within the Federal Government.
   tags: ["shiny","R", "dataviz", "RStats", "point of care", "bash"]

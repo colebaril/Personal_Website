@@ -11,7 +11,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Public Health Agency of Canada
+    name: Public Health Agency of Canada - National Microbiology Laboratory
     location: Winnipeg, Manitoba
     logo: /images/sections/experiences/PHAC.png
     # company overview
@@ -25,24 +25,25 @@ experiences:
     responsibilities:
     - Facilitates national vector-borne pathogen surveillance by testing ticks, mosquitoes, and other samples for various vector-borne pathogens including Borrelia, Anaplasma, Babesia, Powassan virus, West Nile Virus, Eastern Equine Encephalitis, and California Serogroup viruses via real-time PCR and multilocus sequence typing.
     - Supports vector-borne pathogen research activities by assisting with insect identification, dissection and testing.
+    - Supports human diagnostic testing for zoonotic pathogens.
   - designation: Program Coordinator, Innovative Diagnostics Program
     start: 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: 2025
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Coordinates two international external quality assurance (EQA) programs for HIV-1 diagnostics, serving **1,000+ participants in 32 countries**, including quality control preparation, stakeholder engagement, corrective actions, and reporting to stakeholders, senior management and global partners (e.g. World Health Organization).
-    - Facilitates national EQA programs for respiratory pathogens (e.g., SARS-CoV-2, RSV, Influenza), hepatitis, chlamydia and gonorrhea testing, serving **400+ stakeholders across Canada**, including provincial and territorial point-of-care laboratories, Indigenous communities, and non-governmental organizations. 
+    - Coordinated two international external quality assurance (EQA) programs for HIV-1 diagnostics, serving **1,000+ participants in 32 countries**, including quality control preparation, stakeholder engagement, corrective actions, and reporting to stakeholders, senior management and global partners (e.g. World Health Organization).
+    - Facilitated national EQA programs for respiratory pathogens (e.g., SARS-CoV-2, RSV, Influenza), hepatitis, chlamydia and gonorrhea testing, serving **400+ stakeholders across Canada**, including provincial and territorial point-of-care laboratories, Indigenous communities, and non-governmental organizations. 
     - Developed an automated report and document generation process using R, RMarkdown, Power BI, and Excel, increasing program efficiency and accuracy, and reducing the time spent conducting manual tasks by **160 hours** annually.
     - Conceived, designed, and deployed a desktop application using R and Bash to increase data accessibility for point-of-care test data, enhancing decision-making processes, and reducing time spent entering data internally. The app has been adopted by multiple units within the division and has been installed on over 200 instruments.
     - Reduced program costs by **$12,000** annually through innovative quality control material development while maintaining high standards of program quality.
-    - Conducts data analysis for program performance assessment and participant reporting.
+    - Conducted data analysis for program performance assessment and participant reporting.
     - Authored over 100 Standard Operating Procedures (SOPs) to ensure ISO compliance and enhance program sustainability and operational resilience.
 - company:
     name: Brandon University
     logo: /images/sections/experiences/BU.png
     location: Brandon, Manitoba
-    overview: 
+    overview:
   positions:
   - designation: Graduate Researcher, Vector and Pest Laboratory
     start: 2020
@@ -57,7 +58,7 @@ experiences:
     start: January 2022
     end: May 2022
     responsibilities:
-    -  Delivered pre-lab presentations, designed and implemented teaching experiments, prepared laboratory materials, provided feedback on assignments, and facilitated student engagement in lab sessions for 50 students at Brandon University.
+    -  Developed bioinformatics workflows for a pilot tick next-generation sequencing project to inform future grant application decisions, resulting in the identification of several viruses and bacteria.
 
   - designation: Sessional Instructor (Diseases 15:366)
     start: January 2022
@@ -70,10 +71,6 @@ experiences:
     end: May 2021
     responsibilities:
     -  Delivered pre-lab presentations, provided feedback on assignments, and facilitated student engagement in virtual lab sessions for 75 students at Brandon University.
-
-  - designation: Graduate Student
-    start: 2020
-    end: 2022
 
 
 - company:
