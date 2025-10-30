@@ -10,6 +10,33 @@ section:
 
 # your publications
 publications:
+
+- title: ID a Tick
+  publishedIn:
+    name: National Microbiology Laboratory Branch - Take Our Kids to Work Day Activity
+    date: November 2025
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+  paper: 
+    summary: Designed and delivered a poster presentation about ticks and tick-borne diseases for grade 9 students, and ran a booth where students got to identify ticks under a microscope.
+  tags: ["ticks", "canada", "public health"]
+
+- title: Tick-borne pathogen surveillance at the National Microbiology Laboratory Branch
+  publishedIn:
+    name: Brandon University - Diseases Course - Guest Lecture
+    date: October 2025
+    url: 
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+  paper: 
+    summary: Designed and delivered a guest lecture for Brandon University's Diseases course.
+  tags: ["ticks", "canada", "public health"]
+
 - title: QASI-EID & QASI-VL - A Programmatic Approach to Improving Program Efficiciency
   publishedIn:
     name: 
