@@ -11,6 +11,21 @@ section:
 # your publications
 publications:
 
+- title: Science Career Panelist
+  publishedIn:
+    name: Red River College Polytechnic – Science Laboratory Technology Program
+    date: November 2025
+    url:
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+  paper:
+    summary: Served as a panelist speaking to Science Laboratory Technology students about transitioning into the workforce. Provided guidance on what to expect when starting a job, shared career and job-search advice, and answered student questions about laboratory careers.
+  tags: ["career development", "laboratory science", "education", "public health"]
+
+
+
 - title: ID a Tick
   publishedIn:
     name: National Microbiology Laboratory Branch - Take Our Kids to Work Day Activity
