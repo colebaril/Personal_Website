@@ -55,7 +55,7 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Molecular Diagnostics
-  percentage: 90
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
@@ -70,17 +70,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Problem Solving
-  percentage: 90
+  percentage: 95
   color: black
 
 - type: soft-skill-indicator
   name: Project Management
-  percentage: 85
+  percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
   name: Flexibility
-  percentage: 85
+  percentage: 100
   color: orange
 
 # you can also provide color code instead of the color name

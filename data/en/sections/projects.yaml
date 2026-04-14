@@ -99,6 +99,15 @@ projects:
   summary: Conducts hobby data analysis projects using R, exploring diverse topics such as social media analytics, video game data insights, and visualizing trends in local weather patterns and forest fire activity.
   tags: ["hobby","R", "dataviz", "RStats"]
 
+- name: TidyTuesday
+  logo: /images/sections/projects/plot.png
+  role: Author
+  repo: "https://github.com/colebaril/tidytuesday"
+  timeline: "January 2024 - Present"
+  url: "https://colebaril.github.io/tidytuesday/"
+  summary: I take part in "TidyTuesday" where the R community creates weekly data visualizations based on community-curated datasets. See the visualizations I have created [here](https://colebaril.github.io/tidytuesday/).
+  tags: ["hobby","R", "dataviz", "RStats"]
+
 - name: JobScope
   logo: /images/sections/projects/job-search.png
   role: Developer & Maintainer
@@ -107,6 +116,15 @@ projects:
   url: "https://colebaril.ca/posts/blog/jobscope/"
   summary: Maintains a job posting aggregator. Read about it [here](https://colebaril.ca/posts/blog/jobscope/).
   tags: ["hoppy","R", "app", "RStats", "shiny", "jobsearch", "python"]
+
+- name: trashpanda
+  logo: /images/sections/projects/racoon.png
+  role: Developer & Maintainer
+  repo: "https://github.com/colebaril/trashpanda"
+  timeline: "January 2026 - Present"
+  url: "https://colebaril.github.io/trashpanda/"
+  summary: Maintains a R package containing functions I developed and frequently use. Read about it [here](https://colebaril.github.io/trashpanda/).
+  tags: ["hoppy","R", "package", "RStats"]
 
 
 
