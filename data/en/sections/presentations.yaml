@@ -11,6 +11,19 @@ section:
 # your publications
 publications:
 
+- title: National Microbiology Laboratory Tick Booth
+  publishedIn:
+    name: University of Manitoba – Science Rendezvous 2026
+    date: April 2026
+    url:
+  authors:
+  - name: Cole Baril
+    url: colebaril.ca
+
+  paper:
+    summary: Ran a booth for the 2026 Science Rendezvous Fair in which I taught elementary school children about ticks and mosquitoes and had them identify ticks under a microscope. Presented to >1,000 kids over two days.
+  tags: ["career development", "laboratory science", "education", "public health"]
+
 - title: Science Career Panelist
   publishedIn:
     name: Red River College Polytechnic – Science Laboratory Technology Program

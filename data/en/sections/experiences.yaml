@@ -26,6 +26,9 @@ experiences:
     - Facilitates national vector-borne pathogen surveillance by testing ticks, mosquitoes, and other samples for various vector-borne pathogens including Borrelia, Anaplasma, Babesia, Powassan virus, West Nile Virus, Eastern Equine Encephalitis, and California Serogroup viruses via real-time PCR and multilocus sequence typing.
     - Supports vector-borne pathogen research activities by assisting with insect identification, dissection and testing.
     - Supports human diagnostic testing for zoonotic pathogens.
+    - Collects arthropod (e.g., tick dragging) and mammal (e.g., small mammal trapping) samples for pathogen surveillance from sites across Canada in response to outbreaks and research and surveillance needs.
+    - Designs, develops, implements and maintains automated data processing solutions using Excel and R, including human diagnostic PCR worksheets and bioinformatics workflows, improving efficiency, reducing manual processing, and minimizing repetitive tasks while increasing accuracy.
+    - Designed, develops and maintains an internal surveillance dashboard using R that integrates and visualizes surveillance data, improving data accessibility and supporting timely analysis and interpretation of surveillance trends.
   - designation: Program Coordinator, Innovative Diagnostics Program
     start: 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
