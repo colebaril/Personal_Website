@@ -5,7 +5,7 @@ hero: hero.jpg
 description: Documenting the process of creating programmatic tools to enhance mosquito surveillance data. 
 menu:
   sidebar:
-    name: "Mosquito Monitor"
+    name: "Backyard Mosquito Trapping"
     identifier: mosquito_monitor
     parent: blog
     weight: 1
